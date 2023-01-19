@@ -1,0 +1,794 @@
+[
+    {
+        "id": 27782,
+        "date_created": "2022-08-20T22:35:48",
+        "date_created_gmt": "2022-08-20T22:35:48",
+        "date_modified": "2022-08-20T22:35:48",
+        "date_modified_gmt": "2022-08-20T22:35:48",
+        "description": "",
+        "permalink": "https://lojaeremim.com/produto/camiseta-batimentos-de-oxum/?attribute_pa_cor=amarelo-2&attribute_pa_tamanho=gg&attribute_pa_modelo=regata",
+        "sku": "80057-Camiseta-batimentos-de-Oxum-vr-amarelo-GG",
+        "price": "35.00",
+        "regular_price": "35.00",
+        "sale_price": "",
+        "date_on_sale_from": null,
+        "date_on_sale_from_gmt": null,
+        "date_on_sale_to": null,
+        "date_on_sale_to_gmt": null,
+        "on_sale": false,
+        "status": "publish",
+        "purchasable": true,
+        "virtual": false,
+        "downloadable": false,
+        "downloads": [],
+        "download_limit": -1,
+        "download_expiry": -1,
+        "tax_status": "taxable",
+        "tax_class": "",
+        "manage_stock": false,
+        "stock_quantity": null,
+        "stock_status": "instock",
+        "backorders": "no",
+        "backorders_allowed": false,
+        "backordered": false,
+        "low_stock_amount": null,
+        "weight": "0.3",
+        "dimensions": {
+            "length": "17",
+            "width": "27",
+            "height": "5"
+        },
+        "shipping_class": "",
+        "shipping_class_id": 0,
+        "image": {
+            "id": 26902,
+            "date_created": "2022-08-20T21:46:23",
+            "date_created_gmt": "2022-08-20T21:46:23",
+            "date_modified": "2022-08-20T21:46:23",
+            "date_modified_gmt": "2022-08-20T21:46:23",
+            "src": "https://lojaeremim.com/wp-content/uploads/2022/08/80057vr.amarelo.png",
+            "name": "80057vr.amarelo",
+            "alt": ""
+        },
+        "attributes": [
+            {
+                "id": 2,
+                "name": "Cor",
+                "option": "amarelo-2"
+            },
+            {
+                "id": 1,
+                "name": "Tamanho",
+                "option": "GG"
+            },
+            {
+                "id": 3,
+                "name": "Modelo",
+                "option": "Regata Masculina"
+            }
+        ],
+        "menu_order": 0,
+        "meta_data": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://lojaeremim.com/wp-json/wc/v3/products/27752/variations/27782"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://lojaeremim.com/wp-json/wc/v3/products/27752/variations"
+                }
+            ],
+            "up": [
+                {
+                    "href": "https://lojaeremim.com/wp-json/wc/v3/products/27752"
+                }
+            ]
+        }
+    },
+    {
+        "id": 27781,
+        "date_created": "2022-08-20T22:35:48",
+        "date_created_gmt": "2022-08-20T22:35:48",
+        "date_modified": "2022-08-20T22:35:48",
+        "date_modified_gmt": "2022-08-20T22:35:48",
+        "description": "",
+        "permalink": "https://lojaeremim.com/produto/camiseta-batimentos-de-oxum/?attribute_pa_cor=amarelo-2&attribute_pa_tamanho=g&attribute_pa_modelo=regata",
+        "sku": "80057-Camiseta-batimentos-de-Oxum-vr-amarelo-G",
+        "price": "35.00",
+        "regular_price": "35.00",
+        "sale_price": "",
+        "date_on_sale_from": null,
+        "date_on_sale_from_gmt": null,
+        "date_on_sale_to": null,
+        "date_on_sale_to_gmt": null,
+        "on_sale": false,
+        "status": "publish",
+        "purchasable": true,
+        "virtual": false,
+        "downloadable": false,
+        "downloads": [],
+        "download_limit": -1,
+        "download_expiry": -1,
+        "tax_status": "taxable",
+        "tax_class": "",
+        "manage_stock": false,
+        "stock_quantity": null,
+        "stock_status": "instock",
+        "backorders": "no",
+        "backorders_allowed": false,
+        "backordered": false,
+        "low_stock_amount": null,
+        "weight": "0.3",
+        "dimensions": {
+            "length": "17",
+            "width": "27",
+            "height": "5"
+        },
+        "shipping_class": "",
+        "shipping_class_id": 0,
+        "image": {
+            "id": 26902,
+            "date_created": "2022-08-20T21:46:23",
+            "date_created_gmt": "2022-08-20T21:46:23",
+            "date_modified": "2022-08-20T21:46:23",
+            "date_modified_gmt": "2022-08-20T21:46:23",
+            "src": "https://lojaeremim.com/wp-content/uploads/2022/08/80057vr.amarelo.png",
+            "name": "80057vr.amarelo",
+            "alt": ""
+        },
+        "attributes": [
+            {
+                "id": 2,
+                "name": "Cor",
+                "option": "amarelo-2"
+            },
+            {
+                "id": 1,
+                "name": "Tamanho",
+                "option": "G"
+            },
+            {
+                "id": 3,
+                "name": "Modelo",
+                "option": "Regata Masculina"
+            }
+        ],
+        "menu_order": 0,
+        "meta_data": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://lojaeremim.com/wp-json/wc/v3/products/27752/variations/27781"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://lojaeremim.com/wp-json/wc/v3/products/27752/variations"
+                }
+            ],
+            "up": [
+                {
+                    "href": "https://lojaeremim.com/wp-json/wc/v3/products/27752"
+                }
+            ]
+        }
+    },
+    {
+        "id": 27780,
+        "date_created": "2022-08-20T22:35:48",
+        "date_created_gmt": "2022-08-20T22:35:48",
+        "date_modified": "2022-08-20T22:35:48",
+        "date_modified_gmt": "2022-08-20T22:35:48",
+        "description": "",
+        "permalink": "https://lojaeremim.com/produto/camiseta-batimentos-de-oxum/?attribute_pa_cor=amarelo-2&attribute_pa_tamanho=m&attribute_pa_modelo=regata",
+        "sku": "80057-Camiseta-batimentos-de-Oxum-vr-amarelo-M",
+        "price": "35.00",
+        "regular_price": "35.00",
+        "sale_price": "",
+        "date_on_sale_from": null,
+        "date_on_sale_from_gmt": null,
+        "date_on_sale_to": null,
+        "date_on_sale_to_gmt": null,
+        "on_sale": false,
+        "status": "publish",
+        "purchasable": true,
+        "virtual": false,
+        "downloadable": false,
+        "downloads": [],
+        "download_limit": -1,
+        "download_expiry": -1,
+        "tax_status": "taxable",
+        "tax_class": "",
+        "manage_stock": false,
+        "stock_quantity": null,
+        "stock_status": "instock",
+        "backorders": "no",
+        "backorders_allowed": false,
+        "backordered": false,
+        "low_stock_amount": null,
+        "weight": "0.3",
+        "dimensions": {
+            "length": "17",
+            "width": "27",
+            "height": "5"
+        },
+        "shipping_class": "",
+        "shipping_class_id": 0,
+        "image": {
+            "id": 26902,
+            "date_created": "2022-08-20T21:46:23",
+            "date_created_gmt": "2022-08-20T21:46:23",
+            "date_modified": "2022-08-20T21:46:23",
+            "date_modified_gmt": "2022-08-20T21:46:23",
+            "src": "https://lojaeremim.com/wp-content/uploads/2022/08/80057vr.amarelo.png",
+            "name": "80057vr.amarelo",
+            "alt": ""
+        },
+        "attributes": [
+            {
+                "id": 2,
+                "name": "Cor",
+                "option": "amarelo-2"
+            },
+            {
+                "id": 1,
+                "name": "Tamanho",
+                "option": "M"
+            },
+            {
+                "id": 3,
+                "name": "Modelo",
+                "option": "Regata Masculina"
+            }
+        ],
+        "menu_order": 0,
+        "meta_data": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://lojaeremim.com/wp-json/wc/v3/products/27752/variations/27780"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://lojaeremim.com/wp-json/wc/v3/products/27752/variations"
+                }
+            ],
+            "up": [
+                {
+                    "href": "https://lojaeremim.com/wp-json/wc/v3/products/27752"
+                }
+            ]
+        }
+    },
+    {
+        "id": 27779,
+        "date_created": "2022-08-20T22:35:48",
+        "date_created_gmt": "2022-08-20T22:35:48",
+        "date_modified": "2022-08-20T22:35:48",
+        "date_modified_gmt": "2022-08-20T22:35:48",
+        "description": "",
+        "permalink": "https://lojaeremim.com/produto/camiseta-batimentos-de-oxum/?attribute_pa_cor=amarelo-2&attribute_pa_tamanho=p&attribute_pa_modelo=regata",
+        "sku": "80057-Camiseta-batimentos-de-Oxum-vr-amarelo-P",
+        "price": "35.00",
+        "regular_price": "35.00",
+        "sale_price": "",
+        "date_on_sale_from": null,
+        "date_on_sale_from_gmt": null,
+        "date_on_sale_to": null,
+        "date_on_sale_to_gmt": null,
+        "on_sale": false,
+        "status": "publish",
+        "purchasable": true,
+        "virtual": false,
+        "downloadable": false,
+        "downloads": [],
+        "download_limit": -1,
+        "download_expiry": -1,
+        "tax_status": "taxable",
+        "tax_class": "",
+        "manage_stock": false,
+        "stock_quantity": null,
+        "stock_status": "instock",
+        "backorders": "no",
+        "backorders_allowed": false,
+        "backordered": false,
+        "low_stock_amount": null,
+        "weight": "0.3",
+        "dimensions": {
+            "length": "17",
+            "width": "27",
+            "height": "5"
+        },
+        "shipping_class": "",
+        "shipping_class_id": 0,
+        "image": {
+            "id": 26902,
+            "date_created": "2022-08-20T21:46:23",
+            "date_created_gmt": "2022-08-20T21:46:23",
+            "date_modified": "2022-08-20T21:46:23",
+            "date_modified_gmt": "2022-08-20T21:46:23",
+            "src": "https://lojaeremim.com/wp-content/uploads/2022/08/80057vr.amarelo.png",
+            "name": "80057vr.amarelo",
+            "alt": ""
+        },
+        "attributes": [
+            {
+                "id": 2,
+                "name": "Cor",
+                "option": "amarelo-2"
+            },
+            {
+                "id": 1,
+                "name": "Tamanho",
+                "option": "P"
+            },
+            {
+                "id": 3,
+                "name": "Modelo",
+                "option": "Regata Masculina"
+            }
+        ],
+        "menu_order": 0,
+        "meta_data": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://lojaeremim.com/wp-json/wc/v3/products/27752/variations/27779"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://lojaeremim.com/wp-json/wc/v3/products/27752/variations"
+                }
+            ],
+            "up": [
+                {
+                    "href": "https://lojaeremim.com/wp-json/wc/v3/products/27752"
+                }
+            ]
+        }
+    },
+    {
+        "id": 27778,
+        "date_created": "2022-08-20T22:35:48",
+        "date_created_gmt": "2022-08-20T22:35:48",
+        "date_modified": "2022-08-20T22:35:48",
+        "date_modified_gmt": "2022-08-20T22:35:48",
+        "description": "",
+        "permalink": "https://lojaeremim.com/produto/camiseta-batimentos-de-oxum/?attribute_pa_cor=amarelo-2&attribute_pa_tamanho=xgg&attribute_pa_modelo=camiseta",
+        "sku": "80057-Camiseta-batimentos-de-Oxum-v-Amarelo-XGG",
+        "price": "45.00",
+        "regular_price": "45.00",
+        "sale_price": "",
+        "date_on_sale_from": null,
+        "date_on_sale_from_gmt": null,
+        "date_on_sale_to": null,
+        "date_on_sale_to_gmt": null,
+        "on_sale": false,
+        "status": "publish",
+        "purchasable": true,
+        "virtual": false,
+        "downloadable": false,
+        "downloads": [],
+        "download_limit": -1,
+        "download_expiry": -1,
+        "tax_status": "taxable",
+        "tax_class": "",
+        "manage_stock": false,
+        "stock_quantity": null,
+        "stock_status": "instock",
+        "backorders": "no",
+        "backorders_allowed": false,
+        "backordered": false,
+        "low_stock_amount": null,
+        "weight": "0.3",
+        "dimensions": {
+            "length": "17",
+            "width": "27",
+            "height": "5"
+        },
+        "shipping_class": "",
+        "shipping_class_id": 0,
+        "image": {
+            "id": 26901,
+            "date_created": "2022-08-20T21:45:51",
+            "date_created_gmt": "2022-08-20T21:45:51",
+            "date_modified": "2022-08-20T21:45:51",
+            "date_modified_gmt": "2022-08-20T21:45:51",
+            "src": "https://lojaeremim.com/wp-content/uploads/2022/08/80057_Camiseta-batimentos-de-Oxum_R35_amarelo.png",
+            "name": "80057_Camiseta batimentos de Oxum_R$35_amarelo",
+            "alt": ""
+        },
+        "attributes": [
+            {
+                "id": 2,
+                "name": "Cor",
+                "option": "amarelo-2"
+            },
+            {
+                "id": 1,
+                "name": "Tamanho",
+                "option": "XGG"
+            },
+            {
+                "id": 3,
+                "name": "Modelo",
+                "option": "Camiseta Unissex"
+            }
+        ],
+        "menu_order": 0,
+        "meta_data": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://lojaeremim.com/wp-json/wc/v3/products/27752/variations/27778"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://lojaeremim.com/wp-json/wc/v3/products/27752/variations"
+                }
+            ],
+            "up": [
+                {
+                    "href": "https://lojaeremim.com/wp-json/wc/v3/products/27752"
+                }
+            ]
+        }
+    },
+    {
+        "id": 27777,
+        "date_created": "2022-08-20T22:35:48",
+        "date_created_gmt": "2022-08-20T22:35:48",
+        "date_modified": "2022-08-20T22:35:48",
+        "date_modified_gmt": "2022-08-20T22:35:48",
+        "description": "",
+        "permalink": "https://lojaeremim.com/produto/camiseta-batimentos-de-oxum/?attribute_pa_cor=amarelo-2&attribute_pa_tamanho=gg&attribute_pa_modelo=camiseta",
+        "sku": "80057-Camiseta-batimentos-de-Oxum-v-Amarelo-GG",
+        "price": "35.00",
+        "regular_price": "35.00",
+        "sale_price": "",
+        "date_on_sale_from": null,
+        "date_on_sale_from_gmt": null,
+        "date_on_sale_to": null,
+        "date_on_sale_to_gmt": null,
+        "on_sale": false,
+        "status": "publish",
+        "purchasable": true,
+        "virtual": false,
+        "downloadable": false,
+        "downloads": [],
+        "download_limit": -1,
+        "download_expiry": -1,
+        "tax_status": "taxable",
+        "tax_class": "",
+        "manage_stock": false,
+        "stock_quantity": null,
+        "stock_status": "instock",
+        "backorders": "no",
+        "backorders_allowed": false,
+        "backordered": false,
+        "low_stock_amount": null,
+        "weight": "0.3",
+        "dimensions": {
+            "length": "17",
+            "width": "27",
+            "height": "5"
+        },
+        "shipping_class": "",
+        "shipping_class_id": 0,
+        "image": {
+            "id": 26901,
+            "date_created": "2022-08-20T21:45:51",
+            "date_created_gmt": "2022-08-20T21:45:51",
+            "date_modified": "2022-08-20T21:45:51",
+            "date_modified_gmt": "2022-08-20T21:45:51",
+            "src": "https://lojaeremim.com/wp-content/uploads/2022/08/80057_Camiseta-batimentos-de-Oxum_R35_amarelo.png",
+            "name": "80057_Camiseta batimentos de Oxum_R$35_amarelo",
+            "alt": ""
+        },
+        "attributes": [
+            {
+                "id": 2,
+                "name": "Cor",
+                "option": "amarelo-2"
+            },
+            {
+                "id": 1,
+                "name": "Tamanho",
+                "option": "GG"
+            },
+            {
+                "id": 3,
+                "name": "Modelo",
+                "option": "Camiseta Unissex"
+            }
+        ],
+        "menu_order": 0,
+        "meta_data": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://lojaeremim.com/wp-json/wc/v3/products/27752/variations/27777"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://lojaeremim.com/wp-json/wc/v3/products/27752/variations"
+                }
+            ],
+            "up": [
+                {
+                    "href": "https://lojaeremim.com/wp-json/wc/v3/products/27752"
+                }
+            ]
+        }
+    },
+    {
+        "id": 27776,
+        "date_created": "2022-08-20T22:35:48",
+        "date_created_gmt": "2022-08-20T22:35:48",
+        "date_modified": "2022-08-20T22:35:48",
+        "date_modified_gmt": "2022-08-20T22:35:48",
+        "description": "",
+        "permalink": "https://lojaeremim.com/produto/camiseta-batimentos-de-oxum/?attribute_pa_cor=amarelo-2&attribute_pa_tamanho=g&attribute_pa_modelo=camiseta",
+        "sku": "80057-Camiseta-batimentos-de-Oxum-v-Amarelo-G",
+        "price": "35.00",
+        "regular_price": "35.00",
+        "sale_price": "",
+        "date_on_sale_from": null,
+        "date_on_sale_from_gmt": null,
+        "date_on_sale_to": null,
+        "date_on_sale_to_gmt": null,
+        "on_sale": false,
+        "status": "publish",
+        "purchasable": true,
+        "virtual": false,
+        "downloadable": false,
+        "downloads": [],
+        "download_limit": -1,
+        "download_expiry": -1,
+        "tax_status": "taxable",
+        "tax_class": "",
+        "manage_stock": false,
+        "stock_quantity": null,
+        "stock_status": "instock",
+        "backorders": "no",
+        "backorders_allowed": false,
+        "backordered": false,
+        "low_stock_amount": null,
+        "weight": "0.3",
+        "dimensions": {
+            "length": "17",
+            "width": "27",
+            "height": "5"
+        },
+        "shipping_class": "",
+        "shipping_class_id": 0,
+        "image": {
+            "id": 26901,
+            "date_created": "2022-08-20T21:45:51",
+            "date_created_gmt": "2022-08-20T21:45:51",
+            "date_modified": "2022-08-20T21:45:51",
+            "date_modified_gmt": "2022-08-20T21:45:51",
+            "src": "https://lojaeremim.com/wp-content/uploads/2022/08/80057_Camiseta-batimentos-de-Oxum_R35_amarelo.png",
+            "name": "80057_Camiseta batimentos de Oxum_R$35_amarelo",
+            "alt": ""
+        },
+        "attributes": [
+            {
+                "id": 2,
+                "name": "Cor",
+                "option": "amarelo-2"
+            },
+            {
+                "id": 1,
+                "name": "Tamanho",
+                "option": "G"
+            },
+            {
+                "id": 3,
+                "name": "Modelo",
+                "option": "Camiseta Unissex"
+            }
+        ],
+        "menu_order": 0,
+        "meta_data": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://lojaeremim.com/wp-json/wc/v3/products/27752/variations/27776"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://lojaeremim.com/wp-json/wc/v3/products/27752/variations"
+                }
+            ],
+            "up": [
+                {
+                    "href": "https://lojaeremim.com/wp-json/wc/v3/products/27752"
+                }
+            ]
+        }
+    },
+    {
+        "id": 27775,
+        "date_created": "2022-08-20T22:35:48",
+        "date_created_gmt": "2022-08-20T22:35:48",
+        "date_modified": "2022-08-20T22:35:48",
+        "date_modified_gmt": "2022-08-20T22:35:48",
+        "description": "",
+        "permalink": "https://lojaeremim.com/produto/camiseta-batimentos-de-oxum/?attribute_pa_cor=amarelo-2&attribute_pa_tamanho=m&attribute_pa_modelo=camiseta",
+        "sku": "80057-Camiseta-batimentos-de-Oxum-v-Amarelo-M",
+        "price": "35.00",
+        "regular_price": "35.00",
+        "sale_price": "",
+        "date_on_sale_from": null,
+        "date_on_sale_from_gmt": null,
+        "date_on_sale_to": null,
+        "date_on_sale_to_gmt": null,
+        "on_sale": false,
+        "status": "publish",
+        "purchasable": true,
+        "virtual": false,
+        "downloadable": false,
+        "downloads": [],
+        "download_limit": -1,
+        "download_expiry": -1,
+        "tax_status": "taxable",
+        "tax_class": "",
+        "manage_stock": false,
+        "stock_quantity": null,
+        "stock_status": "instock",
+        "backorders": "no",
+        "backorders_allowed": false,
+        "backordered": false,
+        "low_stock_amount": null,
+        "weight": "0.3",
+        "dimensions": {
+            "length": "17",
+            "width": "27",
+            "height": "5"
+        },
+        "shipping_class": "",
+        "shipping_class_id": 0,
+        "image": {
+            "id": 26901,
+            "date_created": "2022-08-20T21:45:51",
+            "date_created_gmt": "2022-08-20T21:45:51",
+            "date_modified": "2022-08-20T21:45:51",
+            "date_modified_gmt": "2022-08-20T21:45:51",
+            "src": "https://lojaeremim.com/wp-content/uploads/2022/08/80057_Camiseta-batimentos-de-Oxum_R35_amarelo.png",
+            "name": "80057_Camiseta batimentos de Oxum_R$35_amarelo",
+            "alt": ""
+        },
+        "attributes": [
+            {
+                "id": 2,
+                "name": "Cor",
+                "option": "amarelo-2"
+            },
+            {
+                "id": 1,
+                "name": "Tamanho",
+                "option": "M"
+            },
+            {
+                "id": 3,
+                "name": "Modelo",
+                "option": "Camiseta Unissex"
+            }
+        ],
+        "menu_order": 0,
+        "meta_data": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://lojaeremim.com/wp-json/wc/v3/products/27752/variations/27775"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://lojaeremim.com/wp-json/wc/v3/products/27752/variations"
+                }
+            ],
+            "up": [
+                {
+                    "href": "https://lojaeremim.com/wp-json/wc/v3/products/27752"
+                }
+            ]
+        }
+    },
+    {
+        "id": 27774,
+        "date_created": "2022-08-20T22:35:48",
+        "date_created_gmt": "2022-08-20T22:35:48",
+        "date_modified": "2022-11-27T05:03:59",
+        "date_modified_gmt": "2022-11-27T05:03:59",
+        "description": "",
+        "permalink": "https://lojaeremim.com/produto/camiseta-batimentos-de-oxum/?attribute_pa_cor=amarelo-2&attribute_pa_tamanho=p&attribute_pa_modelo=camiseta",
+        "sku": "80057-Camiseta-batimentos-de-Oxum-v-Amarelo-P",
+        "price": "35.00",
+        "regular_price": "35.00",
+        "sale_price": "",
+        "date_on_sale_from": null,
+        "date_on_sale_from_gmt": null,
+        "date_on_sale_to": null,
+        "date_on_sale_to_gmt": null,
+        "on_sale": false,
+        "status": "publish",
+        "purchasable": true,
+        "virtual": false,
+        "downloadable": false,
+        "downloads": [],
+        "download_limit": -1,
+        "download_expiry": -1,
+        "tax_status": "taxable",
+        "tax_class": "",
+        "manage_stock": false,
+        "stock_quantity": null,
+        "stock_status": "instock",
+        "backorders": "no",
+        "backorders_allowed": false,
+        "backordered": false,
+        "low_stock_amount": null,
+        "weight": "0.3",
+        "dimensions": {
+            "length": "17",
+            "width": "27",
+            "height": "5"
+        },
+        "shipping_class": "",
+        "shipping_class_id": 0,
+        "image": {
+            "id": 26901,
+            "date_created": "2022-08-20T21:45:51",
+            "date_created_gmt": "2022-08-20T21:45:51",
+            "date_modified": "2022-08-20T21:45:51",
+            "date_modified_gmt": "2022-08-20T21:45:51",
+            "src": "https://lojaeremim.com/wp-content/uploads/2022/08/80057_Camiseta-batimentos-de-Oxum_R35_amarelo.png",
+            "name": "80057_Camiseta batimentos de Oxum_R$35_amarelo",
+            "alt": ""
+        },
+        "attributes": [
+            {
+                "id": 2,
+                "name": "Cor",
+                "option": "amarelo-2"
+            },
+            {
+                "id": 1,
+                "name": "Tamanho",
+                "option": "P"
+            },
+            {
+                "id": 3,
+                "name": "Modelo",
+                "option": "Camiseta Unissex"
+            }
+        ],
+        "menu_order": 0,
+        "meta_data": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://lojaeremim.com/wp-json/wc/v3/products/27752/variations/27774"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://lojaeremim.com/wp-json/wc/v3/products/27752/variations"
+                }
+            ],
+            "up": [
+                {
+                    "href": "https://lojaeremim.com/wp-json/wc/v3/products/27752"
+                }
+            ]
+        }
+    }
+]
